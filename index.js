@@ -11,4 +11,4 @@ app.use(cors());
 
 app.use("/api/", authRoute);
 
-app.listen(demo-auth-chi.vercel.app, () => console.log("Server up and running"));
+app.listen(400, () => console.log("Server up and running"));
